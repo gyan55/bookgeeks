@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      yesh
+     <p> this isb a react project</p>
       
     </div>
   );
